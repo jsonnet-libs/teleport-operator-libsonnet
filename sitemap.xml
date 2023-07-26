@@ -2,77 +2,307 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://jsonnet-libs.github.io/teleport-operator-libsonnet/</loc>
-         <lastmod>2023-06-25</lastmod>
+         <lastmod>2023-07-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/teleport-operator-libsonnet/12.2/</loc>
-         <lastmod>2023-06-25</lastmod>
+         <lastmod>2023-07-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/teleport-operator-libsonnet/12.2/resources/</loc>
-         <lastmod>2023-06-25</lastmod>
+         <lastmod>2023-07-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/teleport-operator-libsonnet/12.2/resources/v1/</loc>
-         <lastmod>2023-06-25</lastmod>
+         <lastmod>2023-07-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/teleport-operator-libsonnet/12.2/resources/v1/teleportLoginRule/</loc>
-         <lastmod>2023-06-25</lastmod>
+         <lastmod>2023-07-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/teleport-operator-libsonnet/12.2/resources/v2/</loc>
-         <lastmod>2023-06-25</lastmod>
+         <lastmod>2023-07-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/teleport-operator-libsonnet/12.2/resources/v2/teleportSAMLConnector/</loc>
-         <lastmod>2023-06-25</lastmod>
+         <lastmod>2023-07-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/teleport-operator-libsonnet/12.2/resources/v2/teleportUser/</loc>
-         <lastmod>2023-06-25</lastmod>
+         <lastmod>2023-07-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/teleport-operator-libsonnet/12.2/resources/v3/</loc>
-         <lastmod>2023-06-25</lastmod>
+         <lastmod>2023-07-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/teleport-operator-libsonnet/12.2/resources/v3/teleportGithubConnector/</loc>
-         <lastmod>2023-06-25</lastmod>
+         <lastmod>2023-07-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/teleport-operator-libsonnet/12.2/resources/v3/teleportOIDCConnector/</loc>
-         <lastmod>2023-06-25</lastmod>
+         <lastmod>2023-07-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/teleport-operator-libsonnet/12.2/resources/v5/</loc>
-         <lastmod>2023-06-25</lastmod>
+         <lastmod>2023-07-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/teleport-operator-libsonnet/12.2/resources/v5/teleportRole/</loc>
-         <lastmod>2023-06-25</lastmod>
+         <lastmod>2023-07-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/teleport-operator-libsonnet/12.2/resources/v6/</loc>
-         <lastmod>2023-06-25</lastmod>
+         <lastmod>2023-07-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/teleport-operator-libsonnet/12.2/resources/v6/teleportRole/</loc>
-         <lastmod>2023-06-25</lastmod>
+         <lastmod>2023-07-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/teleport-operator-libsonnet/13.0/</loc>
+         <lastmod>2023-07-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/teleport-operator-libsonnet/13.0/resources/</loc>
+         <lastmod>2023-07-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/teleport-operator-libsonnet/13.0/resources/v1/</loc>
+         <lastmod>2023-07-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/teleport-operator-libsonnet/13.0/resources/v1/teleportLoginRule/</loc>
+         <lastmod>2023-07-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/teleport-operator-libsonnet/13.0/resources/v2/</loc>
+         <lastmod>2023-07-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/teleport-operator-libsonnet/13.0/resources/v2/teleportProvisionToken/</loc>
+         <lastmod>2023-07-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/teleport-operator-libsonnet/13.0/resources/v2/teleportSAMLConnector/</loc>
+         <lastmod>2023-07-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/teleport-operator-libsonnet/13.0/resources/v2/teleportUser/</loc>
+         <lastmod>2023-07-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/teleport-operator-libsonnet/13.0/resources/v3/</loc>
+         <lastmod>2023-07-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/teleport-operator-libsonnet/13.0/resources/v3/teleportGithubConnector/</loc>
+         <lastmod>2023-07-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/teleport-operator-libsonnet/13.0/resources/v3/teleportOIDCConnector/</loc>
+         <lastmod>2023-07-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/teleport-operator-libsonnet/13.0/resources/v5/</loc>
+         <lastmod>2023-07-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/teleport-operator-libsonnet/13.0/resources/v5/teleportRole/</loc>
+         <lastmod>2023-07-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/teleport-operator-libsonnet/13.0/resources/v6/</loc>
+         <lastmod>2023-07-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/teleport-operator-libsonnet/13.0/resources/v6/teleportRole/</loc>
+         <lastmod>2023-07-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/teleport-operator-libsonnet/13.1/</loc>
+         <lastmod>2023-07-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/teleport-operator-libsonnet/13.1/resources/</loc>
+         <lastmod>2023-07-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/teleport-operator-libsonnet/13.1/resources/v1/</loc>
+         <lastmod>2023-07-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/teleport-operator-libsonnet/13.1/resources/v1/teleportLoginRule/</loc>
+         <lastmod>2023-07-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/teleport-operator-libsonnet/13.1/resources/v2/</loc>
+         <lastmod>2023-07-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/teleport-operator-libsonnet/13.1/resources/v2/teleportProvisionToken/</loc>
+         <lastmod>2023-07-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/teleport-operator-libsonnet/13.1/resources/v2/teleportSAMLConnector/</loc>
+         <lastmod>2023-07-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/teleport-operator-libsonnet/13.1/resources/v2/teleportUser/</loc>
+         <lastmod>2023-07-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/teleport-operator-libsonnet/13.1/resources/v3/</loc>
+         <lastmod>2023-07-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/teleport-operator-libsonnet/13.1/resources/v3/teleportGithubConnector/</loc>
+         <lastmod>2023-07-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/teleport-operator-libsonnet/13.1/resources/v3/teleportOIDCConnector/</loc>
+         <lastmod>2023-07-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/teleport-operator-libsonnet/13.1/resources/v5/</loc>
+         <lastmod>2023-07-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/teleport-operator-libsonnet/13.1/resources/v5/teleportRole/</loc>
+         <lastmod>2023-07-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/teleport-operator-libsonnet/13.1/resources/v6/</loc>
+         <lastmod>2023-07-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/teleport-operator-libsonnet/13.1/resources/v6/teleportRole/</loc>
+         <lastmod>2023-07-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/teleport-operator-libsonnet/13.2/</loc>
+         <lastmod>2023-07-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/teleport-operator-libsonnet/13.2/resources/</loc>
+         <lastmod>2023-07-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/teleport-operator-libsonnet/13.2/resources/v1/</loc>
+         <lastmod>2023-07-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/teleport-operator-libsonnet/13.2/resources/v1/teleportLoginRule/</loc>
+         <lastmod>2023-07-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/teleport-operator-libsonnet/13.2/resources/v1/teleportOktaImportRule/</loc>
+         <lastmod>2023-07-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/teleport-operator-libsonnet/13.2/resources/v2/</loc>
+         <lastmod>2023-07-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/teleport-operator-libsonnet/13.2/resources/v2/teleportProvisionToken/</loc>
+         <lastmod>2023-07-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/teleport-operator-libsonnet/13.2/resources/v2/teleportSAMLConnector/</loc>
+         <lastmod>2023-07-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/teleport-operator-libsonnet/13.2/resources/v2/teleportUser/</loc>
+         <lastmod>2023-07-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/teleport-operator-libsonnet/13.2/resources/v3/</loc>
+         <lastmod>2023-07-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/teleport-operator-libsonnet/13.2/resources/v3/teleportGithubConnector/</loc>
+         <lastmod>2023-07-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/teleport-operator-libsonnet/13.2/resources/v3/teleportOIDCConnector/</loc>
+         <lastmod>2023-07-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/teleport-operator-libsonnet/13.2/resources/v5/</loc>
+         <lastmod>2023-07-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/teleport-operator-libsonnet/13.2/resources/v5/teleportRole/</loc>
+         <lastmod>2023-07-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/teleport-operator-libsonnet/13.2/resources/v6/</loc>
+         <lastmod>2023-07-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/teleport-operator-libsonnet/13.2/resources/v6/teleportRole/</loc>
+         <lastmod>2023-07-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
