@@ -8,6 +8,3 @@ permalink: /13.1/
 local teleport-operator = import "github.com/jsonnet-libs/teleport-operator-libsonnet/13.1/main.libsonnet"
 ```
 
-
-
-* [resources](resources/index.md)
